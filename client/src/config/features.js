@@ -3,4 +3,8 @@ export const FEATURES = {
     ENABLE_SIGNUP: false,
     ENABLE_ACADEMIC_PAGE: false,
     ENABLE_SETTINGS_PAGE: false,
+    ENABLE_STATS_PAGE: true,
+    ENABLE_EXPORT_REPORT: false,
+    ENABLE_WEEKLY_HEATMAP: false,
+    ENABLE_PROTOCOLS_PAGE: true,
 };
